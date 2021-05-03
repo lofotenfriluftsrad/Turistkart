@@ -1,0 +1,40 @@
+X,Y,fid,id,navn,status,maalpunkttype,funksjon,tilrettelegging,beskrivelse,eier_tilrettelegging,grunneieravtale,tilgjengelighet,trafikkbelastning,maaloppnaaelse,lenker,nye_tiltak,kostnad_nye_tiltak,finansiering_nye_tiltak,organisering_nye_tiltak,prioritering,opphav,registreringsmetode,registrert_av,datafangstdato,endret_av,oppdateringsdato,Opening season,Cost,icon_url
+12.9790322818319,67.8804559053611,"2",,Å,Eksisterende,,,,Toalett,Statens vegvesen,,,,,,,,,,,,,,,,,All year,Free,./0.png
+13.0444303327063,67.8995877306924,"3",,Moskenes fergekai,Eksisterende,,,,Toalett,Statens vegvesen,,,,,,,,,,,,,,,,,All year,Free,./0.png
+13.0102246781113,67.8908588299725,"4",,SOIL-huset,Eksisterende,,,,Toalett,Moskenes kommune,,,,,,,,,,,,,,,,,All year,10 kr,./0.png
+13.0878123817895,67.9343900465941,"5",,Reine inner havn,Eksisterende,,,,Toalett,Moskenes kommune,,,,,,,,,,,,,,,,,April-september,?,./0.png
+13.0990953975659,67.9354503456598,"6",,Reine ytre havn,Eksisterende,,,,Toalett,Moskenes kommune,,,,,,,,,,,,,,,,,April-september,?,./0.png
+13.1515986438554,67.9619275824553,"7",,Akkarvikodden,Eksisterende,,,,Toalett,Statens vegvesen,,,,,,,,,,,,,,,,,May 15 - Oct 1,Free,./0.png
+13.173227067216,68.0869782175376,"8",,Draugenplassen,Eksisterende,,,,Toalett,Flakstad kommune,,,,,,,,,,,,,,,,,?,Free,./0.png
+13.1388020937432,68.0887915951357,"9",,Innersand,Eksisterende,,,,Toalett,Leif N. Solhaug,,,,,,,,,,,,,,,,,?,?,./0.png
+13.2843252626564,68.1036989375691,"10",,Brunstranda,Eksisterende,,,,Toalett,Statens vegvesen,,,,,,,,,,,,,,,,,May 15 - oct 1,Free,./0.png
+13.2282040810502,68.0894313023662,"11",,Ramberg senter,Eksisterende,,,,Toalett,Privat,,,,,,,,,,,,,,,,,All year,20 kr,./0.png
+13.5383853833861,68.0711500065689,"12",,Ballstad havn,Eksisterende,,,,Toalett,Vestvågøy kommune,,,,,,,,,,,,,,,,,All year,?,./0.png
+13.559761465893,68.1145701487744,"13",,Klokkarvika,Eksisterende,,,,Toalett,Vestvågøy kommune,,,,,,,,,,,,,,,,,All year,10 kr,./0.png
+13.5075194075163,68.1496747872177,"14",,Skreda,Eksisterende,,,,Toalett,Statens vegvesen,,,,,,,,,,,,,,,,,All year,Free,./0.png
+13.6180355656722,68.1454588045963,"15",,Esso Leknes,Eksisterende,,,,Toalett,Esso,,,,,,,,,,,,,,,,,All year. Follow the opening hours,?,./0.png
+13.6154841682833,68.1488074653033,"16",,Meieriet kultursenter,Eksisterende,,,,Toalett,Vestvåøy kommune,,,,,,,,,,,,,,,,,All year. Follows the opening hours,?,./0.png
+13.6176125157508,68.1488087191125,"17",,Lofotsenteret,Eksisterende,,,,Toalett,Lofotsenteret,,,,,,,,,,,,,,,,,All year. Follows the opening hours,Free,./0.png
+13.6997871666916,68.1572627301976,"18",,Hagskaret,Eksisterende,,,,Toalett,Statens vegvesen,,,,,,,,,,,,,,,,,May 15 - oct 1,Free,./0.png
+13.5319415783785,68.1995274007714,"19",,Haukland,Eksisterende,,,,Toalett,Vestvågøy kommune,,,,,,,,,,,,,,,,,?,?,./0.png
+13.5057245783817,68.2091758792412,"20",,Uttakleiv,Eksisterende,,,,Toalett,Uttakleiv grendelag,,,,,,,,,,,,,,,,,May 1 - oct 15,?,./0.png
+13.7461451281487,68.2375457677444,"21",,Spar Borg,Eksisterende,,,,Toalett,Spar Borg,,,,,,,,,,,,,,,,,All year. Follows the opening hours.,Free,./0.png
+13.8265666859376,68.2631622597351,"22",,Torvdalshalsen,Eksisterende,,,,Toalett,Statens vegvesen,,,,,,,,,,,,,,,,,All year,Free,./0.png
+13.5841793601994,68.2717476618661,"23",,Unstad,Eksisterende,,,,Toalett,Vestvågøy kommune,,,,,,,,,,,,,,,,,?,?,./0.png
+13.6531209228261,68.3079406101912,"24",,Eggum,Eksisterende,,,,Toalett,Statens vegvesen,,,,,,,,,,,,,,,,,May 15 - oct 1,Free,./0.png
+14.2699522148373,68.2606752547805,"25",,Klepstad rasteplass,Eksisterende,,,,Toalett,Statens vegvesen,,,,,,,,,,,,,,,,,May 15 - oct 1,Free,./0.png
+14.2351138644301,68.2032620367187,"26",,Rørvika,Eksisterende,,,,Toalett,Vågan kommune,,,,,,,,,,,,,,,,,May 1 - oct 1,10 kr,./0.png
+14.206989973874,68.1561349903803,"27",,Henningsvær Misværhola,Eksisterende,,,,Toalett,Vågan kommune,,,,,,,,,,,,,,,,,All year,?,./0.png
+14.3364057946649,68.1894108867779,"28",,Kalle,Eksisterende,,,,Toalett,Vågan kommune ,,,,,,,,,,,,,,,,,May 1 - oct 1,10 kr,./0.png
+14.5534869056432,68.2349185609552,"29",,Svolvær fergekai,Eksisterende,,,,Toalett,Statens vegvesen,,,,,,,,,,,,,,,,,All year,Free,./0.png
+14.567645771263,68.2321523802411,"30",,Svolvær havn,Eksisterende,,,,Toalett,Vågan kommune,,,,,,,,,,,,,,,,,All year,?,./0.png
+14.5658012626983,68.2308717008232,"31",,Hurtigrutekaia,Eksisterende,,,,Toalett,?,,,,,,,,,,,,,,,,,?,?,./0.png
+14.562549689162,68.2322257552371,"34",,Vågan rådhus,Eksisterende,,,,Toalett,Vågan kommune,,,,,,,,,,,,,,,,,All year. Follows the opening hours,Free,./0.png
+14.6061247998388,68.24367506834,"35",,Stranda under fjellet,Eksisterende,,,,Toalett,Vågan kommune ,,,,,,,,,,,,,,,,,May 1 - oct 1,10 kr,./0.png
+14.6477501882043,68.2439181360835,"36",,Børvågen,Eksisterende,,,,Toalett,Vågan kommune,,,,,,,,,,,,,,,,,May 1 - oct 1,?,./0.png
+14.7150771777204,68.3158745081714,"37",,Austnesfjorden,Eksisterende,,,,Toalett,Statens vegvesen,,,,,,,,,,,,,,,,,All year,Free,./0.png
+14.8239864129587,68.4307011308756,"38",,Fiskebøl fergekai,Eksisterende,,,,Toalett,Statens vegvesen,,,,,,,,,,,,,,,,,All year,Free,./0.png
+14.6615192772371,68.1692836431637,"39",,Skrova samfunshus,Eksisterende,,,,Toalett,Vågan kommune,,,,,,,,,,,,,,,,,Jun - aug,?,./0.png
+14.9900068582899,68.3157075244876,"40",,Snarkjøp Digermulen,Eksisterende,,,,Toalett,?,,,,,,,,,,,,,,,,,?,?,./0.png
+13.1297329539859,68.0684450351258,"41",,Torsfjorden,Eksisterende,,,,Toalett,Flakstad kommune,,,,,,,,,,,,,,,,,Kommer 2021,?,./0.png
+13.2287959750771,68.0889053028612,"42",,The Lofoten store,Eksisterende,,,,,Privat,,,,,,,,,,,,,,,,,All year. Follows the opening hours for the shop,Free,./0.png
